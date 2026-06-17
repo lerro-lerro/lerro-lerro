@@ -8,10 +8,9 @@
 <!-- ===================== INTRO ===================== -->
 ### About me
 
-- 🔭 Working on &nbsp;**web & network security research**
+- 🔍 Passionate about &nbsp;**web & network security**
 - 🌱 Sharpening &nbsp;**penetration testing & exploitation**
 - 🚩 Playing &nbsp;**CTFs**&nbsp; with team &nbsp;**[pwnlentoni](https://pwnlentoni.team)**
-- 💬 Ask me about &nbsp;**web security, network security, JWT attacks**
 - 📫 Reach me at &nbsp;**leonardocosta330@protonmail.com**
 
 <!-- ===================== STACK ===================== -->
