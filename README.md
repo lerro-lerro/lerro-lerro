@@ -10,7 +10,7 @@
 
 - 🔍 Passionate about &nbsp;**web & network security**
 - 🌱 Sharpening &nbsp;**penetration testing & exploitation**
-- 🚩 Playing &nbsp;**CTFs**&nbsp; with team &nbsp;**[pwnlentoni](https://pwnlentoni.team)**
+- 🚩 Playing &nbsp;**CTFs**&nbsp; as &nbsp;**LoLlo**&nbsp; with team &nbsp;**[pwnlentoni](https://pwnlentoni.team)**
 - 📫 Reach me at &nbsp;**leonardocosta330@protonmail.com**
 
 <!-- ===================== STACK ===================== -->
